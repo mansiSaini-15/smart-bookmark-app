@@ -120,4 +120,5 @@ they cannot access other users’ data due to RLS enforcement.
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mansiSaini-15/smart-bookmark-app.git
+
